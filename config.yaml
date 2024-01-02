@@ -1,0 +1,3 @@
+token: # Tutaj ma być token twojego bota na discord.
+serwery: # Tutaj ma być ID serwera lub serwerów discord na którym mają działać komendy.
+link_do_api: # Tutaj wklej link do twojego API np: api.szewczuko.com
