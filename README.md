@@ -1,2 +1,2 @@
 # SzBOT
-Bot Discord opierający się na moim [API](https://github.com/szewczuko/api)
+Wrapper do mojego [API](https://github.com/szewczuko/api)
